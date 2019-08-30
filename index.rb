@@ -1,4 +1,4 @@
 require "colorize"
 
-puts "This is awesome".colorize(color: :red, background: :blue)
+puts "This is awesome".colorize(color: :red, background: :white)
 
